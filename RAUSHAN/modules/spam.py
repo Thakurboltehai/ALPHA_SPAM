@@ -1,4 +1,4 @@
-# © @ll_ALPHA_BABY_lll
+
 import asyncio
 
 from RAUSHAN.data import GROUP, PORMS
